@@ -19,7 +19,7 @@ public enum Cell {
         for (Cell cell : Cell.values()) {
             if (cell.symbol.equals(symbol)) {
                 cellRepresentedBySymbol = cell;
-                system.out.println("okkk");
+                system.out.println("okkhhhk");
                 break;
             }
         }
