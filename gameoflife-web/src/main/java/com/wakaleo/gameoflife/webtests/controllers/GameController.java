@@ -23,7 +23,7 @@ public class GameController {
         Universe universe = new Universe();
         mav.addObject("universe", universe);
         thinkABit(250);
-        system.out.println("gghgooak");
+        system.out.println("gghgook");
         return mav;
     }
 
